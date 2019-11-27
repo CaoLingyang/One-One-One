@@ -13,7 +13,6 @@ public class HomeController {
     public String index(){
         return "index";
     }
-
     @GetMapping("/wrapper")
     public String index(String abc,Integer pageNum){
         System.out.println("---"+abc);
