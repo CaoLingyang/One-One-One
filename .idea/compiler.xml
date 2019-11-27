@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Test-ThirytyOne" />
+        <module name="Test-EightTeen" />
+        <module name="Test-Tweteen" />
+        <module name="Test-Thierteen" />
+        <module name="Test-Nine" />
+        <module name="test-web" />
+        <module name="Test-Two" />
+        <module name="Test-ThirytyTwo" />
+        <module name="Test-Seven" />
+        <module name="Test-Ten" />
+        <module name="test-service" />
+        <module name="Test-Four" />
+        <module name="test-dao" />
+        <module name="Test-NineTeen" />
+        <module name="Test-TweentySix" />
+        <module name="Test-SevenTeen" />
+        <module name="Test-Thirity" />
+        <module name="Test-Six" />
+        <module name="test-entity" />
+        <module name="Spring-TweentyOne" />
+        <module name="Test-TweentyThree" />
+        <module name="Test-One" />
+        <module name="Test-Five" />
+        <module name="Test-Tweenty" />
+        <module name="Test-Three" />
+        <module name="Test-Eight" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Test-entity" target="1.8" />
+      <module name="Test-SixTeen" target="1.8" />
+      <module name="Test-Spring-mybaties-springmvc" target="1.8" />
+      <module name="Test-TweentyFour" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

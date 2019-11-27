@@ -1,0 +1,8 @@
+com\controller\passdatatoview\ForwardPassController.class
+com\controller\passdatatoview\RedirectPassController.class
+com\controller\view\ViewDemoController.class
+com\controller\jump\JumpController.class
+com\controller\Vo\UserInfoVo.class
+com\controller\modelattribute\ModelAttributeController.class
+com\controller\passdatatoview\LoadViewWithDataController.class
+com\controller\view\DisplayViewController.class

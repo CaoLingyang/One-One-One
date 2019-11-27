@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Spring-TweentyOne" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Eight" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-EightTeen" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Five" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-NineTeen" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Seven" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-SevenTeen" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-SixTeen" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Spring-mybaties-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Ten" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Thierteen" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Thirity" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-ThirytyOne" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-ThirytyTwo" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Tweenty" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-TweentySix" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-TweentyThree" />
+    <file type="web" url="file://$PROJECT_DIR$/Test-Tweteen" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Test-TweentyFour/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

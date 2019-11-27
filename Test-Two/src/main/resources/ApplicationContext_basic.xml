@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+    <bean id="dbConfig" class="inject.basic.DbConfig">
+        <constructor-arg value="root" name="username"/>
+        <constructor-arg value="pwd" name="password"/>
+        <constructor-arg value="url.." name="url"/>
+
+
+        <property name="driverClassname" value="driver"/>
+    </bean>
+
+
+    <bean id="addr" class="inject.basic.Address">
+        <property name="province" value="gd"/>
+        <property name="city" value="zhuahi"/>
+    </bean>
+    <bean id="userInfo" class="inject.basic.UserInfo">
+        <property name="name" value="aaaa"/>
+
+        <property name="address">
+            <bean class="inject.basic.Address"/>
+        </property>
+    </bean>
+</beans>

@@ -1,0 +1,14 @@
+factory\MyFactoryBean.class
+factory\A.class
+dynamic\B.class
+factory\AFactory.class
+lifecycle\main.class
+aware\SomeBean.class
+hello\EmployeeDao.class
+dynamic\Main.class
+hello\Main.class
+factory\Main.class
+lifecycle\EmployeeLifeCylcle.class
+lifecycle\EmployeeLifeCylcle1.class
+dynamic\DynamicRegistrator.class
+aware\Main.class

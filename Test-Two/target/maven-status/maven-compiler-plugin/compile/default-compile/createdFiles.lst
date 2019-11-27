@@ -1,0 +1,4 @@
+inject\basic\Address.class
+inject\basic\Main.class
+inject\basic\UserInfo.class
+inject\basic\DbConfig.class

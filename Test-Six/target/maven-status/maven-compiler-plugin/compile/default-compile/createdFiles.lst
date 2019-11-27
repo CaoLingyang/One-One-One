@@ -1,0 +1,9 @@
+controller\SecondController.class
+custom\MyHandlerAdapter.class
+custom\MyView.class
+custom\MyViewResolver.class
+custom\MvcController.class
+controller\FirstController.class
+custom\MyRequestMapping.class
+custom\MyController2.class
+custom\MyController.class
