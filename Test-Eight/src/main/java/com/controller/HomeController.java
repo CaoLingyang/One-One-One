@@ -20,6 +20,7 @@ public class HomeController {
         return "index";
     }
 
+
     @GetMapping("/simple")
     public String index(int pageNum){
         System.out.println("pageNum = " + pageNum);
