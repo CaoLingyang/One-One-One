@@ -56,7 +56,7 @@
     <logback.version>1.2.3</logback.version>
     <servlet.version>3.1.0</servlet.version>
     <aspectj.version>1.9.4</aspectj.version>
-    <jackson.version>2.10.1</jackson.version>
+    <jackson.version>2.10.5.1</jackson.version>
     <lombok.version>1.18.10</lombok.version>
     <hibernate.validator.version>6.1.0.Final</hibernate.validator.version>
     <commons.fileupload.version>1.4</commons.fileupload.version>
